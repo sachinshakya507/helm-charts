@@ -22,7 +22,7 @@ spec:
         {{- toYaml . | nindent 8 }}
         {{- end }}
         checksum/secret: {{ include (print $.Template.BasePath "/secrets.yaml") . | sha256sum }}
-        test: "annotation"
+        test: "annotations"
       labels:
         {{- include "web-service.selectorLabels" . | nindent 8 }}
     spec:
