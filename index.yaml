@@ -3,6 +3,16 @@ entries:
   coturn:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2024-12-16T10:01:47.630435232Z"
+    description: A Helm chart for Kubernetes
+    digest: 50a1cab0f9a4bd4d925078755b8978dfaa21f5aea2acc873a484e663b7d1954c
+    name: coturn
+    type: application
+    urls:
+    - https://github.com/sachinshakya507/helm-charts/releases/download/coturn-0.3.4/coturn-0.3.4.tgz
+    version: 0.3.4
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2024-12-16T09:57:29.635174004Z"
     description: A Helm chart for Kubernetes
     digest: 2815709b919735faefbbf66c1b6b4465262fd5a7618063af81ad00cc28645eea
@@ -323,4 +333,4 @@ entries:
     urls:
     - https://github.com/hamropatro/helm-charts/releases/download/web-service-0.3.0/web-service-0.3.0.tgz
     version: 0.3.0
-generated: "2024-12-16T09:57:29.635226702Z"
+generated: "2024-12-16T10:01:47.630497309Z"
