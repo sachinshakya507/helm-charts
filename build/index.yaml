@@ -1,0 +1,286 @@
+apiVersion: v1
+entries:
+  coturn:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-11-14T11:07:41.699119206Z"
+    description: A Helm chart for Kubernetes
+    digest: 79b9b3b390cf6019b81f21a11ee1fbba103e64cd7fdcab94b84edf8ea4c2bb6c
+    name: coturn
+    type: application
+    urls:
+    - https://github.com/hamropatro/helm-charts/releases/download/coturn-0.3.1/coturn-0.3.1.tgz
+    version: 0.3.1
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-11-14T09:28:33.873017515Z"
+    description: A Helm chart for Kubernetes
+    digest: e8c87b014afd4b97d2b1d5b1ef27fbca83a2392ee03d3e5e4f5934795d626325
+    name: coturn
+    type: application
+    urls:
+    - https://github.com/hamropatro/helm-charts/releases/download/coturn-0.3.0/coturn-0.3.0.tgz
+    version: 0.3.0
+  ecommerce-web:
+  - apiVersion: v2
+    appVersion: "2021-05-04"
+    created: "2024-11-14T09:28:33.993363709Z"
+    description: A Helm chart for Kubernetes
+    digest: a3c017bb1710b03df07e254fb7d0f1ab48c9995844d239885d950c683fccb588
+    name: ecommerce-web
+    type: application
+    urls:
+    - https://github.com/hamropatro/helm-charts/releases/download/ecommerce-web-0.3.0/ecommerce-web-0.3.0.tgz
+    version: 0.3.0
+  grpc-service:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-12-16T08:46:57.136124692Z"
+    description: A Helm chart for Kubernetes
+    digest: 6fdae3f8992416589b07ab17300f91e4a266f0030c4ebd406cdc619f0f827976
+    name: grpc-service
+    type: application
+    urls:
+    - https://github.com/hamropatro/helm-charts/releases/download/grpc-service-0.3.4/grpc-service-0.3.4.tgz
+    version: 0.3.4
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-12-13T10:51:19.152080822Z"
+    description: A Helm chart for Kubernetes
+    digest: e8687feeebd6fe1a19213c5cc13ebc9d85c86311bbdf81912376a57db0aca409
+    name: grpc-service
+    type: application
+    urls:
+    - https://github.com/hamropatro/helm-charts/releases/download/grpc-service-0.3.3/grpc-service-0.3.3.tgz
+    version: 0.3.3
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-12-13T09:30:20.990877385Z"
+    description: A Helm chart for Kubernetes
+    digest: 099a7eadc9ff321b25da5096ba2809f14d41a6100e895fb8b22c5902623e6dda
+    name: grpc-service
+    type: application
+    urls:
+    - https://github.com/hamropatro/helm-charts/releases/download/grpc-service-0.3.2/grpc-service-0.3.2.tgz
+    version: 0.3.2
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-11-22T05:12:42.336624823Z"
+    description: A Helm chart for Kubernetes
+    digest: 4280294b61f665d2ef9035b8725d2ac450c6f68e0b47ec9158e8426f5c40774d
+    name: grpc-service
+    type: application
+    urls:
+    - https://github.com/hamropatro/helm-charts/releases/download/grpc-service-0.3.1/grpc-service-0.3.1.tgz
+    version: 0.3.1
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-11-14T09:28:34.156161289Z"
+    description: A Helm chart for Kubernetes
+    digest: 9778bc4d8bbcf706e477a340ed0ea225f9b7ff4328a0a5b5db88cb27db35195e
+    name: grpc-service
+    type: application
+    urls:
+    - https://github.com/hamropatro/helm-charts/releases/download/grpc-service-0.3.0/grpc-service-0.3.0.tgz
+    version: 0.3.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-11-14T09:22:17.772249162Z"
+    description: A Helm chart for Kubernetes
+    digest: 09cb11af94c331c8ec29994b05337c9e676d1eca791317e1e9dc753615b575f8
+    name: grpc-service
+    type: application
+    urls:
+    - https://github.com/hamropatro/helm-charts/releases/download/grpc-service-0.2.0/grpc-service-0.2.0.tgz
+    version: 0.2.0
+  micronaut-service:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-11-14T09:28:34.267542785Z"
+    description: A Helm chart for Kubernetes
+    digest: 59dd238d30b7c3faba6afadee0ea921c904bb9c2e1e66bedff9e046409561d62
+    name: micronaut-service
+    type: application
+    urls:
+    - https://github.com/hamropatro/helm-charts/releases/download/micronaut-service-0.3.0/micronaut-service-0.3.0.tgz
+    version: 0.3.0
+  msg-service:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-11-14T09:28:34.379241543Z"
+    description: A Helm chart for Kubernetes
+    digest: 37b44c03aea9af10f92248d447cc17260f9ab379fd3dc2af18c3bca6f946831c
+    name: msg-service
+    type: application
+    urls:
+    - https://github.com/hamropatro/helm-charts/releases/download/msg-service-0.3.0/msg-service-0.3.0.tgz
+    version: 0.3.0
+  parewa-api:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-11-14T09:28:34.508585189Z"
+    description: A Helm chart for Kubernetes
+    digest: fa231b2e5c629002da3bc564b537389573ead6eb35adf128f8642e2f6a3adc11
+    name: parewa-api
+    type: application
+    urls:
+    - https://github.com/hamropatro/helm-charts/releases/download/parewa-api-0.3.0/parewa-api-0.3.0.tgz
+    version: 0.3.0
+  quarkus-service:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-11-14T09:28:34.635714352Z"
+    description: A Helm chart for Kubernetes
+    digest: da65c9f219ad5bfe0c755273833716e3fc1c717f006efd1f2b6522d3bdf80e20
+    name: quarkus-service
+    type: application
+    urls:
+    - https://github.com/hamropatro/helm-charts/releases/download/quarkus-service-0.3.0/quarkus-service-0.3.0.tgz
+    version: 0.3.0
+  service:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-12-16T08:46:57.230600511Z"
+    description: A Helm chart for Kubernetes
+    digest: fc366650efa216c25191fcfa79ea18cb29799187d18d3fda8b012d58e927dea8
+    name: service
+    type: application
+    urls:
+    - https://github.com/hamropatro/helm-charts/releases/download/service-0.3.6/service-0.3.6.tgz
+    version: 0.3.6
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-12-13T10:51:19.255961883Z"
+    description: A Helm chart for Kubernetes
+    digest: 344948b962744c521f59304b75bdefc7685ef6d31cba2b2cfdcbc862baf57708
+    name: service
+    type: application
+    urls:
+    - https://github.com/hamropatro/helm-charts/releases/download/service-0.3.5/service-0.3.5.tgz
+    version: 0.3.5
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-12-13T09:18:40.476433015Z"
+    description: A Helm chart for Kubernetes
+    digest: cbba5dd470b36bcf9d3a04eb778d2f540c3423bfaba20dfb1adcf0e3437f9899
+    name: service
+    type: application
+    urls:
+    - https://github.com/hamropatro/helm-charts/releases/download/service-0.3.4/service-0.3.4.tgz
+    version: 0.3.4
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-11-22T05:12:42.567406801Z"
+    description: A Helm chart for Kubernetes
+    digest: 8c521cdfb7b6355a432d31b053adc4632a5d22b4ae9a7cd2cbd50a37e78ac7d2
+    name: service
+    type: application
+    urls:
+    - https://github.com/hamropatro/helm-charts/releases/download/service-0.3.3/service-0.3.3.tgz
+    version: 0.3.3
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-11-14T10:19:20.266465027Z"
+    description: A Helm chart for Kubernetes
+    digest: d6b866f3ec7bab975018525daec24174447a0ece7be4bb20e43487b1e47382f3
+    name: service
+    type: application
+    urls:
+    - https://github.com/hamropatro/helm-charts/releases/download/service-0.3.2/service-0.3.2.tgz
+    version: 0.3.2
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-11-14T10:04:41.23497082Z"
+    description: A Helm chart for Kubernetes
+    digest: 838fe2ecc8f964823e6955632c51b29092612b2037b8e020c7c765efeccca695
+    name: service
+    type: application
+    urls:
+    - https://github.com/hamropatro/helm-charts/releases/download/service-0.3.1/service-0.3.1.tgz
+    version: 0.3.1
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-11-14T09:28:34.754468243Z"
+    description: A Helm chart for Kubernetes
+    digest: b8a956264622858143270dbe2d7f603c8fcd1a428013faaa0e2b3ca40e1a7f62
+    name: service
+    type: application
+    urls:
+    - https://github.com/hamropatro/helm-charts/releases/download/service-0.3.0/service-0.3.0.tgz
+    version: 0.3.0
+  squid:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-11-14T09:28:34.84724996Z"
+    description: A Helm chart for Kubernetes
+    digest: 4bb161a3411179df6ebee0da5f6c70c2a98e313ab25c312b2ed8cc5c339d5e3c
+    name: squid
+    type: application
+    urls:
+    - https://github.com/hamropatro/helm-charts/releases/download/squid-0.3.0/squid-0.3.0.tgz
+    version: 0.3.0
+  trino:
+  - apiVersion: v2
+    appVersion: "375"
+    created: "2024-11-14T09:28:34.965084802Z"
+    description: Fast distributed SQL query engine for big data analytics that helps
+      you explore your data universe
+    digest: a27614a88bce6c4a2871c33d29ffc28b32ad00e108198d7b4810c8678d50ba3e
+    name: trino
+    type: application
+    urls:
+    - https://github.com/hamropatro/helm-charts/releases/download/trino-0.3.0/trino-0.3.0.tgz
+    version: 0.3.0
+  tusd:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-11-14T09:28:35.087460182Z"
+    description: A Helm chart for Kubernetes
+    digest: d128420bc7e4ba1b5d5931807f015caab928b1632d8160e5d925e0081079546d
+    name: tusd
+    type: application
+    urls:
+    - https://github.com/hamropatro/helm-charts/releases/download/tusd-0.3.0/tusd-0.3.0.tgz
+    version: 0.3.0
+  web-service:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-12-16T08:37:22.426251695Z"
+    description: A Helm chart for Kubernetes
+    digest: 6f720eaa5dfac0b856b2d897f9ac30c0745a6aecf75cae1091c72d044f67faca
+    name: web-service
+    type: application
+    urls:
+    - https://github.com/hamropatro/helm-charts/releases/download/web-service-0.3.3/web-service-0.3.3.tgz
+    version: 0.3.3
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-12-13T10:51:19.41383103Z"
+    description: A Helm chart for Kubernetes
+    digest: 57aa2ede460fa81e957c59ae7296d9a6419c7e2afb766353dea94878a36213da
+    name: web-service
+    type: application
+    urls:
+    - https://github.com/hamropatro/helm-charts/releases/download/web-service-0.3.2/web-service-0.3.2.tgz
+    version: 0.3.2
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-12-13T08:45:54.815256622Z"
+    description: A Helm chart for Kubernetes
+    digest: ae4ed0d58cff32a9aa7c8e95ac7412b1549ed37e884de7206b20b5930a2b5e9d
+    name: web-service
+    type: application
+    urls:
+    - https://github.com/hamropatro/helm-charts/releases/download/web-service-0.3.1/web-service-0.3.1.tgz
+    version: 0.3.1
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-11-14T09:28:35.223058908Z"
+    description: A Helm chart for Kubernetes
+    digest: 6c6887327334c8634f3af88a603173ac0469bc16f3147410b64eb7264b3b7a12
+    name: web-service
+    type: application
+    urls:
+    - https://github.com/hamropatro/helm-charts/releases/download/web-service-0.3.0/web-service-0.3.0.tgz
+    version: 0.3.0
+generated: "2024-12-16T08:46:57.23066409Z"
